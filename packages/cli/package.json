@@ -1,0 +1,36 @@
+{
+  "name": "@lunarlight/cli",
+  "author": "qinshixixing",
+  "version": "0.0.0",
+  "license": "Apache",
+  "description": "前端项目脚手架脚本",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qinshixixing/lunarlight.git",
+    "directory": "packages/cli"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "type": "module",
+  "main": "dist/index.js",
+  "types": "src/index.ts",
+  "files": [
+    "dist",
+    "src",
+    "type"
+  ],
+  "bin": {
+    "lunarlight": "dist/bin.js"
+  },
+  "dependencies": {
+    "@ebullience/init": "^0.4.0",
+    "axios": "^0.26.0",
+    "chalk": "^5.0.0",
+    "inquirer": "^8.2.0"
+  }
+}
