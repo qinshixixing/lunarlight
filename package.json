@@ -1,0 +1,35 @@
+{
+  "name": "lunarlight",
+  "author": "qinshixixing",
+  "version": "0.0.0",
+  "license": "Apache",
+  "scripts": {
+    "new": "eb-dev-scripts new --project node",
+    "build": "eb-dev-scripts build",
+    "commit": "eb-dev-scripts commit",
+    "release": "eb-dev-scripts release",
+    "commit-all": "eb-dev-scripts commit-all",
+    "update-all": "eb-dev-scripts update-all"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qinshixixing/lunarlight.git"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "type": "module",
+  "devDependencies": {
+    "@ebullience/dev-scripts": "^0.2.0",
+    "@ebullience/node-project-config": "^0.1.0",
+    "@types/fs-extra": "^9.0.13",
+    "@types/inquirer": "^8.2.0",
+    "@types/node": "^17.0.21",
+    "cz-conventional-changelog": "^3.3.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
