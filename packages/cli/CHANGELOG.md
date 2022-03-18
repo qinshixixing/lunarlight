@@ -1,4 +1,13 @@
-# [0.2.0](https://github.com/qinshixixing/lunarlight/compare/cli/v0.1.1...cli/0.2.0) (2022-03-18)
+# [0.3.0](https://github.com/qinshixixing/lunarlight/compare/cli/v0.2.0...cli/0.3.0) (2022-03-18)
+
+
+### Bug Fixes
+
+* **修复文件引入问题:** 修复文件引入问题 ([d79e435](https://github.com/qinshixixing/lunarlight/commit/d79e435461de8b4ee0ed2b08d7ee519850860570))
+
+
+
+# [v0.2.0](https://github.com/qinshixixing/lunarlight/compare/cli/v0.1.1...cli/v0.2.0) (2022-03-18)
 
 
 ### Features
