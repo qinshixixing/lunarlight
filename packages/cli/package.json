@@ -28,7 +28,7 @@
     "lunarlight": "dist/bin.js"
   },
   "dependencies": {
-    "@ebullience/init": "^0.4.0",
+    "@ebullience/init": "^0.6.0",
     "axios": "^0.26.0",
     "chalk": "^5.0.0",
     "inquirer": "^8.2.0"
