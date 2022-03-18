@@ -1,4 +1,13 @@
-# [0.6.0](https://github.com/qinshixixing/lunarlight/compare/cli/v0.5.0...cli/0.6.0) (2022-03-18)
+# [0.7.0](https://github.com/qinshixixing/lunarlight/compare/cli/v0.6.0...cli/0.7.0) (2022-03-18)
+
+
+### Features
+
+* **修改readme.md:** 修改README.MD ([a099e17](https://github.com/qinshixixing/lunarlight/commit/a099e1722ca906401510aa7f5f87c7e17691ea99))
+
+
+
+# [v0.6.0](https://github.com/qinshixixing/lunarlight/compare/cli/v0.5.0...cli/v0.6.0) (2022-03-18)
 
 
 ### Features
