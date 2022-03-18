@@ -1,0 +1,27 @@
+{
+  "name": "@lunarlight/tpl",
+  "author": "qinshixixing",
+  "version": "0.0.0",
+  "license": "Apache",
+  "description": "前端项目脚手架模版",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qinshixixing/lunarlight.git",
+    "directory": "packages/tpl"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "type": "module",
+  "main": "dist/index.js",
+  "types": "src/index.ts",
+  "files": [
+    "dist",
+    "src",
+    "type"
+  ]
+}
