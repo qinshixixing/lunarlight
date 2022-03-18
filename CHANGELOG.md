@@ -1,4 +1,14 @@
-## [0.1.1](https://github.com/qinshixixing/lunarlight/compare/lunarlight/v0.1.0...lunarlight/0.1.1) (2022-03-18)
+## [0.1.2](https://github.com/qinshixixing/lunarlight/compare/lunarlight/v0.1.1...lunarlight/0.1.2) (2022-03-18)
+
+
+### Features
+
+* **更新依赖:** 更新@ebullience/dev-scripts至v0.3.0 ([e7a3395](https://github.com/qinshixixing/lunarlight/commit/e7a33951a84bb35a908ec04c646a6fab1a230757))
+* **更新依赖:** 更新@ebullience/init至v0.6.0 ([18e1f12](https://github.com/qinshixixing/lunarlight/commit/18e1f1265d0b91f0af80fcb991c394267684e417))
+
+
+
+## [v0.1.1](https://github.com/qinshixixing/lunarlight/compare/lunarlight/v0.1.0...lunarlight/v0.1.1) (2022-03-18)
 
 
 ### Bug Fixes
