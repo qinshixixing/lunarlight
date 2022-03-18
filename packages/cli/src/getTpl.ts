@@ -1,7 +1,7 @@
 import axios from 'axios';
 import inquirer from 'inquirer';
 
-import { api } from './api';
+import { api } from './api.js';
 
 interface TplConfig {
   key: string;
