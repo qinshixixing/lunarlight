@@ -1,14 +1,14 @@
 import axios from 'axios';
 import inquirer from 'inquirer';
 
+import { api } from './api';
+
 interface TplConfig {
   key: string;
   description?: string;
   url: string;
   branch?: string;
 }
-
-const api = 'https://www.unpkg.com/@lunarlight/tpl/src/index.json';
 
 const res = await axios.get(api);
 const allTpl: TplConfig[] = res.data || [];
