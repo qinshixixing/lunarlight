@@ -1,4 +1,13 @@
-# [0.3.0](https://github.com/qinshixixing/lunarlight/compare/cli/v0.2.0...cli/0.3.0) (2022-03-18)
+# [0.4.0](https://github.com/qinshixixing/lunarlight/compare/cli/v0.3.0...cli/0.4.0) (2022-03-18)
+
+
+### Features
+
+* **更新依赖:** 更新@ebullience/init至v0.6.0 ([18e1f12](https://github.com/qinshixixing/lunarlight/commit/18e1f1265d0b91f0af80fcb991c394267684e417))
+
+
+
+# [v0.3.0](https://github.com/qinshixixing/lunarlight/compare/cli/v0.2.0...cli/v0.3.0) (2022-03-18)
 
 
 ### Bug Fixes
