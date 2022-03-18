@@ -1,4 +1,13 @@
-## [0.1.1](https://github.com/qinshixixing/lunarlight/compare/cli/v0.1.0...cli/0.1.1) (2022-03-18)
+# [0.2.0](https://github.com/qinshixixing/lunarlight/compare/cli/v0.1.1...cli/0.2.0) (2022-03-18)
+
+
+### Features
+
+* **抽离api地址:** 抽离api地址至单个文件 ([561ae37](https://github.com/qinshixixing/lunarlight/commit/561ae3720206d9af389d5ef1547ee2d033f39c8c))
+
+
+
+## [v0.1.1](https://github.com/qinshixixing/lunarlight/compare/cli/v0.1.0...cli/v0.1.1) (2022-03-18)
 
 
 ### Features
