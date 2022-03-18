@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "key": "pc-base",
+    "description": "pc端基础页面",
+    "url": "https://github.com/lunarlight-tpl/pc-base.git",
+    "branch": "main"
+  },
+  {
+    "key": "pc-admin",
+    "description": "pc端后台管理系统",
+    "url": "https://github.com/lunarlight-tpl/pc-admin.git",
+    "branch": "main"
+  },
+  {
+    "key": "phone-base",
+    "description": "移动端基础页面",
+    "url": "https://github.com/lunarlight-tpl/phone-base.git",
+    "branch": "main"
+  }
+]
